@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tyShinkle
 - 👀 I’m interested in generative design.
-- 🌱 I’m currently learning webGL.
+- 🌱 I’m currently learning p5.js!
 - 💞️ I’m looking to collaborate on anything, willing to learn!
 - 📫 How to reach me tyshinkle@gmail.com
 
